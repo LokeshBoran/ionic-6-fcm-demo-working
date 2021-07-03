@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373130051411",
+    "project_id": "ionic-4-fcm-be802",
+    "storage_bucket": "ionic-4-fcm-be802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373130051411:android:e839fa96b0a35a7af2aba6",
+        "android_client_info": {
+          "package_name": "com.lokiisnoob.ionic4fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373130051411-8fns1scme3udqtdlgsonlr04ni9fno59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyhPRvMVOBi6jgQvf3y5A4QCVmVJJWD88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373130051411-8fns1scme3udqtdlgsonlr04ni9fno59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
