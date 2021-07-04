@@ -25,3 +25,10 @@ ionic cordova build android
 #### plugin used
 
 `ionic cordova plugin add cordova-plugin-fcm-ng --variable PAGE_LINK_DOMAIN=com.<domain_name>`
+
+
+https://enappd.com/blog/how-to-implement-firebase-push-notifications-in-ionic-apps/157/
+https://www.npmjs.com/package/cordova-plugin-fcm-with-dependecy-updated
+https://github.com/cmgustavo/cordova-plugin-fcm
+
+https://stackoverflow.com/questions/60345180/variables-missing-use-variable-app-domain-value-variable-page-link-domai   
